@@ -16,4 +16,4 @@
     - Alocação Dinâmica: O nome de cada item deve ser armazenado usando alocação dinâmica de memória (com malloc ou similar). 
   */
 
-  #Aqui está a solução na qual imagino ser mais viavel visando utilizar o maximo as tecnicas e boas praticas aprendidas em sala;
+  #Aqui está a solução na qual imagino ser mais viavel visando utilizar ao maximo as tecnicas e boas praticas aprendidas em sala;
